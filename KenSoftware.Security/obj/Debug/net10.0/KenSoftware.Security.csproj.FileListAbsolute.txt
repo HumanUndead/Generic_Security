@@ -22,3 +22,16 @@ C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.
 C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\refint\KenSoftware.Security.dll
 C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.pdb
 C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\ref\KenSoftware.Security.dll
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\bin\Debug\net10.0\KenSoftware.Security.deps.json
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\bin\Debug\net10.0\KenSoftware.Security.dll
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\bin\Debug\net10.0\KenSoftware.Security.pdb
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.csproj.AssemblyReference.cache
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.AssemblyInfoInputs.cache
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.AssemblyInfo.cs
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.csproj.CoreCompileInputs.cache
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.sourcelink.json
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.dll
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\refint\KenSoftware.Security.dll
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.pdb
+D:\2024\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\ref\KenSoftware.Security.dll
