@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
-namespace Qimmah.Extensions;
+namespace KenSoftware.Security;
 public static class StringExtensions
 {
     public static bool IsNotNullOrEmpty([NotNullWhen(true)] this string value)

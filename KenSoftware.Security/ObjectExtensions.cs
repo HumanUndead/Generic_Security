@@ -2,7 +2,7 @@
 using System.Reflection;
 using System.Reflection.Emit;
 
-namespace Qimmah.Extensions;
+namespace KenSoftware.Security;
 public static class ObjectExtensions
 {
     public static bool IsNotNullOrEmpty([NotNullWhen(true)] this object obj)

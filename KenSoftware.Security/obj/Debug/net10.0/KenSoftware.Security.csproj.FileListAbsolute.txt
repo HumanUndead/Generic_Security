@@ -9,3 +9,16 @@ C:\Users\Khale\source\repos\AES_POC\KenSoftware.Security\obj\Debug\net10.0\KenSo
 C:\Users\Khale\source\repos\AES_POC\KenSoftware.Security\obj\Debug\net10.0\refint\KenSoftware.Security.dll
 C:\Users\Khale\source\repos\AES_POC\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.pdb
 C:\Users\Khale\source\repos\AES_POC\KenSoftware.Security\obj\Debug\net10.0\ref\KenSoftware.Security.dll
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\bin\Debug\net10.0\KenSoftware.Security.deps.json
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\bin\Debug\net10.0\KenSoftware.Security.dll
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\bin\Debug\net10.0\KenSoftware.Security.pdb
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.csproj.AssemblyReference.cache
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.AssemblyInfoInputs.cache
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.AssemblyInfo.cs
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.csproj.CoreCompileInputs.cache
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.sourcelink.json
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.dll
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\refint\KenSoftware.Security.dll
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.pdb
+C:\Work\Mwafaq\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\ref\KenSoftware.Security.dll
