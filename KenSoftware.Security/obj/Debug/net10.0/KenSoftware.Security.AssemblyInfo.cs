@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KenSoftware.Security")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a3d8de91bd63f5b12bda5c13f98c3df2e99f17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9dfcc7573f91e6317549a97395e4c1e05888b02")]
 [assembly: System.Reflection.AssemblyProductAttribute("KenSoftware.Security")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KenSoftware.Security")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
