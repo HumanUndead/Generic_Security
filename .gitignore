@@ -74,3 +74,6 @@ coverage/
 *.pid
 *.seed
 *.pid.lock
+/KenSoftware.Security/obj/Debug/net10.0/KenSoftware.Security.AssemblyInfo.cs
+/KenSoftware.Security/obj/Debug/net10.0/KenSoftware.Security.sourcelink.json
+/KenSoftware.Security/obj/Debug/net10.0/KenSoftware.Security.AssemblyInfoInputs.cache
