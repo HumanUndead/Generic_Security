@@ -48,3 +48,6 @@ D:\Work\KenSoftware\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\n
 D:\Work\KenSoftware\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\refint\KenSoftware.Security.dll
 D:\Work\KenSoftware\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\KenSoftware.Security.pdb
 D:\Work\KenSoftware\MwafaqAPIs\Generic_Security\KenSoftware.Security\obj\Debug\net10.0\ref\KenSoftware.Security.dll
+C:\Work\Mwafaq\MwafaqAPIs\_temp_build_verify\KenSoftware.Security.deps.json
+C:\Work\Mwafaq\MwafaqAPIs\_temp_build_verify\KenSoftware.Security.dll
+C:\Work\Mwafaq\MwafaqAPIs\_temp_build_verify\KenSoftware.Security.pdb
