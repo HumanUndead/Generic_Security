@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KenSoftware.Security")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4548a170660037bdf9a6c2f854a4babafc2a759")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b663d167e4e72e475eeb09ca3a5663b2dd5686")]
 [assembly: System.Reflection.AssemblyProductAttribute("KenSoftware.Security")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KenSoftware.Security")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
